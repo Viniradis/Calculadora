@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.galaxcms.com.br/up_crud_comum/4027/inadimplencia-corpo-20200129115926.png" alt="logo-calc" width="500"> </p>
+<p align="center"> <img src="https://www.galaxcms.com.br/up_crud_comum/4027/inadimplencia-corpo-20200129115926.png" alt="logo-calc" width="900"> </p>
 
 
 
